@@ -1,0 +1,6 @@
+streamlit
+numpy
+python-multipart
+uvicorn
+transformers
+torch
