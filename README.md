@@ -5,6 +5,6 @@ On first opening of the website it might take a few seconds for the model to dow
 
 Docker run command: docker run -d -p 5000:8501 aruckner/sdc_uebung4
 
-Extended by providing workflow that deploys to docker hub and azure.
+Extended by providing workflow that deploys to docker hub and azure. 
  
 Link to Azure: https://ds20m002-sentiment-streamlit.azurewebsites.net/
