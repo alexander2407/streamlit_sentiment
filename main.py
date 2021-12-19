@@ -2,7 +2,7 @@ import streamlit as st
 import inference
 from transformers import pipeline
 
-st.title("Sentiment Analysis web app")
+st.title("Sentiment Analysis Web App - Deployed by GitHub Workflow")
 
 # this uses distilbert-base-uncased-finetuned-sst-2-english
 classifier = pipeline("sentiment-analysis", model = "distilbert-base-uncased-finetuned-sst-2-english")
